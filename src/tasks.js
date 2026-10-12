@@ -75,3 +75,5 @@ function getTask(id) {
 
 // 导出所有任务操作函数
 module.exports = { createTask, listTasks, updateTask, deleteTask, getTask };
+
+// 新增功能任务详情
